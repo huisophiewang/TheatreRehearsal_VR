@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<act>
+	<participant id="ChrName" role="actor"/>
+	<bml>
+		<speech id="sp1" ref="14_male" type="application/ssml+xml">
+			<mark name="T0"/>
+			OK.
+			<mark name="T1"/>
+			<mark name="T2"/>
+			Hmm...
+			<mark name="T3"/>
+			<mark name="T4"/>
+			I 
+			<mark name="T5"/>
+			<mark name="T6"/>
+			feel
+			<mark name="T7"/>
+			<mark name="T8"/>
+			like...
+			<mark name="T9"/>
+			<mark name="T10"/>
+			I
+			<mark name="T11"/>
+			<mark name="T12"/>
+			feel
+			<mark name="T13"/>
+			<mark name="T14"/>
+			like
+			<mark name="T15"/>
+			<mark name="T16"/>
+			youre
+			<mark name="T17"/>
+			<mark name="T18"/>
+			giving
+			<mark name="T19"/>
+			<mark name="T20"/>
+			me
+			<mark name="T21"/>
+			<mark name="T22"/>
+			Bread,
+			<mark name="T23"/>
+			<mark name="T24"/>
+			and
+			<mark name="T25"/>
+			<mark name="T26"/>
+			what
+			<mark name="T27"/>
+			<mark name="T28"/>
+			I
+			<mark name="T29"/>
+			<mark name="T30"/>
+			need
+			<mark name="T31"/>
+			<mark name="T32"/>
+			is
+			<mark name="T33"/>
+			<mark name="T34"/>
+			Butter.
+			<mark name="T35"/>
+			<mark name="T36"/>
+			Do
+			<mark name="T37"/>
+			<mark name="T38"/>
+			you
+			<mark name="T39"/>
+			<mark name="T40"/>
+			understand?
+			<mark name="T41"/>
+			<mark name="T42"/>
+			Start
+			<mark name="T43"/>
+			<mark name="T44"/>
+			over
+			<mark name="T45"/>
+			<mark name="T46"/>
+			from
+			<mark name="T47"/>
+			<mark name="T48"/>
+			the
+			<mark name="T49"/>
+			<mark name="T50"/>
+			first
+			<mark name="T51"/>
+			<mark name="T52"/>
+			line.
+			<mark name="T53"/>
+			<mark name="T54"/>
+			And
+			<mark name="T55"/>
+			<mark name="T56"/>
+			do
+			<mark name="T57"/>
+			<mark name="T58"/>
+			it
+			<mark name="T59"/>
+			<mark name="T60"/>
+			less
+			<mark name="T61"/>
+			<mark name="T62"/>
+			like
+			<mark name="T63"/>
+			<mark name="T64"/>
+			you
+			<mark name="T65"/>
+			<mark name="T66"/>
+			are
+			<mark name="T67"/>
+			<mark name="T68"/>
+			at
+			<mark name="T69"/>
+			<mark name="T70"/>
+			a
+			<mark name="T71"/>
+			<mark name="T72"/>
+			funeral.
+			<mark name="T73"/>
+			<mark name="T74"/>
+			OK
+			<mark name="T75"/>
+			<mark name="T76"/>
+			Max,
+			<mark name="T77"/>
+			<mark name="T78"/>
+			you
+			<mark name="T79"/>
+			<mark name="T80"/>
+			are
+			<mark name="T81"/>
+			<mark name="T82"/>
+			up.
+			<mark name="T83"/>
+		</speech>
+		<!--Change the angle here tomorrow  -->
+		<face amount="0.8" au="45" end="sp1:T0+0.15" group="small_nod" id="blink183769728587" side="BOTH" start="sp1:T0+0" type="facs"/>
+		<!-- <face amount="0.8" au="45" end="sp1:T0+0.15" group="small_nod" id="blink183770496601" side="BOTH" start="sp1:T0+0" type="facs"/> 
+		<face amount="0.8" au="45" end="sp1:T0+0.15" group="small_nod" id="blink183770912623" side="BOTH" start="sp1:T0+0" type="facs"/> -->
+		<face amount="0.8" au="45" end="sp1:T18+0.15" group="small_nod" id="blink183769280608" side="BOTH" start="sp1:T18+0" type="facs"/>
+		<face amount="0.8" au="45" end="sp1:T24+0.15" group="small_nod" id="blink183770880611" side="BOTH" start="sp1:T24+0" type="facs"/>
+		<face amount="0.8" au="45" end="sp1:T30+0.15" group="small_nod" id="blink183767424645" side="BOTH" start="sp1:T30+0" type="facs"/>
+		<face amount="0.8" au="45" end="sp1:T40+0.15" group="small_nod" id="blink183768384615" side="BOTH" start="sp1:T40+0" type="facs"/>
+		<face amount="0.8" au="45" end="sp1:T46+0.15" group="small_nod" id="blink183767648640" side="BOTH" start="sp1:T46+0" type="facs"/>
+		<face amount="0.8" au="45" end="sp1:T54+0.15" group="small_nod" id="blink183769056618" side="BOTH" start="sp1:T54+0" type="facs"/>
+		<face amount="0.8" au="45" end="sp1:T60+0.15" group="small_nod" id="blink183768128647" side="BOTH" start="sp1:T60+0" type="facs"/>
+		<face amount="0.8" au="45" end="sp1:T66+0.15" group="small_nod" id="blink183770240655" side="BOTH" start="sp1:T66+0" type="facs"/>
+		<face amount="0.8" au="45" end="sp1:T80+0.15" group="small_nod" id="blink183770752653" side="BOTH" start="sp1:T80+0" type="facs"/>
+	  <face amount="0.5" au="2" relax="sp1:T12" type="facs"/>
+		<face amount="0.5" au="1" relax="sp1:T12" type="facs"/>
+		<face amount="0.3" au="2" relax="sp1:T38" type="facs"/>
+		<face amount="0.3" au="1" relax="sp1:T38" type="facs"/>
+		<face amount="0.3" au="2" relax="sp1:T64" type="facs"/>
+		<face amount="0.3" au="1" relax="sp1:T64" type="facs"/>
+		<face amount="0.3" au="2" relax="sp1:T78" type="facs"/>
+		<face amount="0.3" au="1" relax="sp1:T78" type="facs"/>
+    <face amount="1" au="4" end="sp1:T0+6.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.4" au="5" end="sp1:T0+6.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="1" au="10" end="sp1:T0+6.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+
+    <face amount="1" au="4" end="sp1:T4+6.0" relax="sp1:T4+2.0" side="BOTH" start="sp1:T4+0" stroke="sp1:T4+.4" type="facs"/>
+    <face amount="0.4" au="5" end="sp1:T4+6.0" relax="sp1:T4+2.0" side="BOTH" start="sp1:T4+0" stroke="sp1:T4+.4" type="facs"/>
+    <face amount="1" au="10" end="sp1:T4+6.0" relax="sp1:T4+2.0" side="BOTH" start="sp1:T4+0" stroke="sp1:T4+.4" type="facs"/>
+    <face amount="1" au="4" end="sp1:T10+6.0" relax="sp1:T10+2.0" side="BOTH" start="sp1:T10+0" stroke="sp1:T10+.4" type="facs"/>
+    <face amount="0.4" au="5" end="sp1:T10+6.0" relax="sp1:T10+2.0" side="BOTH" start="sp1:T10+0" stroke="sp1:T10+.4" type="facs"/>
+    <face amount="1" au="10" end="sp1:T10+6.0" relax="sp1:T10+2.0" side="BOTH" start="sp1:T10+0" stroke="sp1:T10+.4" type="facs"/>
+
+    <face amount="1" au="4" end="sp1:T28+6.0" relax="sp1:T28+2.0" side="BOTH" start="sp1:T28+0" stroke="sp1:T28+.4" type="facs"/>
+    <face amount="0.4" au="5" end="sp1:T28+6.0" relax="sp1:T28+2.0" side="BOTH" start="sp1:T28+0" stroke="sp1:T28+.4" type="facs"/>
+    <face amount="1" au="10" end="sp1:T28+6.0" relax="sp1:T28+2.0" side="BOTH" start="sp1:T28+0" stroke="sp1:T28+.4" type="facs"/>
+
+    <face amount="1" au="4" end="sp1:T38+6.0" relax="sp1:T38+2.0" side="BOTH" start="sp1:T38+0" stroke="sp1:T38+.4" type="facs"/>
+    <face amount="0.4" au="5" end="sp1:T38+6.0" relax="sp1:T38+2.0" side="BOTH" start="sp1:T38+0" stroke="sp1:T38+.4" type="facs"/>
+    <face amount="1" au="10" end="sp1:T38+6.0" relax="sp1:T38+2.0" side="BOTH" start="sp1:T38+0" stroke="sp1:T38+.4" type="facs"/>
+
+    <face amount="1" au="4" end="sp1:T42+6.0" relax="sp1:T42+2.0" side="BOTH" start="sp1:T42+0" stroke="sp1:T42+.4" type="facs"/>
+    <face amount="0.4" au="5" end="sp1:T42+6.0" relax="sp1:T42+2.0" side="BOTH" start="sp1:T42+0" stroke="sp1:T42+.4" type="facs"/>
+    <face amount="1" au="10" end="sp1:T42+6.0" relax="sp1:T42+2.0" side="BOTH" start="sp1:T42+0" stroke="sp1:T42+.4" type="facs"/>
+
+    <face amount="1" au="4" end="sp1:T64+6.0" relax="sp1:T64+2.0" side="BOTH" start="sp1:T64+0" stroke="sp1:T64+.4" type="facs"/>
+    <face amount="0.4" au="5" end="sp1:T64+6.0" relax="sp1:T64+2.0" side="BOTH" start="sp1:T64+0" stroke="sp1:T64+.4" type="facs"/>
+    <face amount="1" au="10" end="sp1:T64+6.0" relax="sp1:T64+2.0" side="BOTH" start="sp1:T64+0" stroke="sp1:T64+.4" type="facs"/>
+
+    <face amount="1" au="4" end="sp1:T78+6.0" relax="sp1:T78+2.0" side="BOTH" start="sp1:T78+0" stroke="sp1:T78+.4" type="facs"/>
+    <face amount="0.4" au="5" end="sp1:T78+6.0" relax="sp1:T78+2.0" side="BOTH" start="sp1:T78+0" stroke="sp1:T78+.4" type="facs"/>
+    <face amount="1" au="10" end="sp1:T78+6.0" relax="sp1:T78+2.0" side="BOTH" start="sp1:T78+0" stroke="sp1:T78+.4" type="facs"/>
+
+
+
+
+    <head type="TOSS" amount="-0.08" repeats="0.3" start="sp1:T6" end="sp1:T12" group="tilt_rt"/>
+    <head amount="0.3"  repeats="0.5" start="sp1:T6" end="sp1:T15" type="nod" velocity="1"/>
+
+    <head amount="0.15" group="small_nod" id="action183768544587" repeats="1" start="blink183769728587:start" type="nod" velocity="1"/>
+    <head amount="0.03" group="small_nod" id="overshoot183769376587" repeats="0.5" start="action183768544587:relax" type="nod" velocity="1"/>
+
+
+    <gesture name="ChrRachel@Idle02_YouPointLf01new" priority="2" relax="sp1:T17" stroke="sp1:T16"/>
+    <gesture name="ChrRachel@Idle02_YouPointLf01new" priority="2" relax="sp1:T39" stroke="sp1:T38"/>
+    <gesture name = "ChrRachel@Idle02_YouLf01new" priority="2" relax="sp1:T79" stroke="sp1:T78"/>
+		
+
+		
+		
+		<gaze target = "Max_head" start="sp1:T76" sbm:joint-speed="600 1500" sbm:joint-smooth="2"   />
+		<gaze target= "Camera" start="sp1:T82+.4" sbm:joint-speed="520 1500" sbm:joint-smooth="2" />
+	</bml>
+</act>

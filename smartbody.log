@@ -1,0 +1,149 @@
+WARNING: Motion name "ChrRachel@IdlePlayigWithFingers01" does not equal base of filename 'ChrRachel@IdlePlayingWithFingers01.skm'. Using 'ChrRachel@IdlePlayingWithFingers01' in posture map.
+WARNING: SkMotion::load(): File "ChrOlivia@001_InnerBrowRaiser.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@001_InnerBrowRaiserL.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@001_InnerBrowRaiserR.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@002_OuterBrowRaiser.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@002_OuterBrowRaiserL.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@002_OuterBrowRaiserR.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@004_BrowLowerer.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@005_UpperLidRaiser.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@006_CheekRaiser.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@006_CheekRaiserL.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@006_CheekRaiserR.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@007_LidTightener.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@007_LidTightenerL.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@007_LidTightenerR.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@009_NoseWrinkler.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@010_UpperLipRaiser.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@010_UpperLipRaiserL.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@010_UpperLipRaiserR.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@011_NasolabialDeepener.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@011_NasolabialDeepenerL.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@011_NasolabialDeepenerR.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@012_LipCornerPuller.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@012_LipCornerPullerL.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@012_LipCornerPullerR.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@013_SharpLipPuller.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@014_Dimpler.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@014_DimplerL.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@014_DimplerR.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@015_LipCornerDepressor.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@016_LowerLipDepressor.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@017_ChinRaiser.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@020_LipStretcher.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@020_LipStretcherL.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@020_LipStretcherR.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@022_LipFunneler.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@023_LipTightener.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@024_LipPressor.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@025_LipsPart.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@026_JawDrop.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@027_MouthStretch.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@038_NostrilDilator.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@039_NostrilCompressor.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@043_EyesClosed.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@045_BlinkL.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@045_BlinkR.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@100_LipCornerPuller-LipsPart.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@101_LipCornerPuller-CheekRaiser.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@102_InnerBrowRaiser-OuterBrowRaiser.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@face_neutral.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@FV.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@open.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@PBM.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@ShCh.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@tBack.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@tRoof.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@tTeeth.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@W.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+WARNING: SkMotion::load(): File "ChrOlivia@wide.skm": Timing Metadata incomplete before end of file (metadata_flags: 0).
+MeCtFace::remove_joint Warning: joint 'eyeball_left' NOT FOUND
+
+MeCtFace::remove_joint Warning: joint 'eyeball_right' NOT FOUND
+
+locomotionInitSkeleton = ChrOlivia.sk
+Steer agent with name Rachel does not exist.
+No steering agent for character Maarten
+Setting up steering agent for character Rachel
+locomotionInitSkeleton = ChrBrad.sk
+Motion named ChrBrad_ChrMarine@RunCircleRt01_smooth already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@WalkCircleRt01_smooth already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@WalkTightCircleRt01_smooth already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@StrafeFastRt01_smooth already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@Meander01_smooth already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@WalkCircleLf01 already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@WalkTightCircleLf01 already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@StrafeFastLf01 already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@StrafeSlowLf01 already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@RunCircleLf01 already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@RunTightCircleLf01 already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@WalkCircleLf01_smooth already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@WalkTightCircleLf01_smooth already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@StrafeFastLf01_smooth already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@RunCircleLf01_smooth already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@Turn90Lf already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@Turn180Lf01 already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@Turn360Lf01 already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@Idle01_ToWalkLf01 already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@Idle01_ToWalk01_Turn90Lf01 already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@Idle01_ToWalk01_Turn180Lf01 already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@Idle01_StepBackwardsLf01 already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@Idle01_StepForwardLf01 already exists, new motion will not be added.
+Motion named ChrBrad_ChrMarine@Idle01_StepSidewaysLf01 already exists, new motion will not be added.
+Steer agent with name Brad does not exist.
+No steering agent for character Maarten
+Setting up steering agent for character Rachel
+Setting up steering agent for character Brad
+ReachEngine Root Name = JtRoot
+
+ReachEngine Root Name = JtRoot
+
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: Unknown sync for notation "action186864320764:relax"
+BehaviorSyncPoint:parseSyncPointAttr(..): Invalid SyncPoint reference "action186864320764:relax" in behavior "BML_Rachel_sbm_test_bml_10_#5_<head>_"overshoot186864448764"" start; generated unconstrained sync point.
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: BML::parse_bml_gesture(): behavior "BML_Maarten_sbm_test_bml_11_#20_<gesture>": name="ChrBrad@Idle01_BEatLowRt01" not loaded; ignoring behavior.
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
+
+WARNING: Unknown sync for notation "action186866240681:relax"
+BehaviorSyncPoint:parseSyncPointAttr(..): Invalid SyncPoint reference "action186866240681:relax" in behavior "BML_Rachel_sbm_test_bml_13_#32_<head>_"overshoot186851104681"" start; generated unconstrained sync point.
+WARNING: Unknown sync for notation "action186865312683:relax"
+BehaviorSyncPoint:parseSyncPointAttr(..): Invalid SyncPoint reference "action186865312683:relax" in behavior "BML_Rachel_sbm_test_bml_13_#33_<head>_"overshoot186850656683"" start; generated unconstrained sync point.
+WARNING: Unknown sync for notation "action186850656687:relax"
+BehaviorSyncPoint:parseSyncPointAttr(..): Invalid SyncPoint reference "action186850656687:relax" in behavior "BML_Rachel_sbm_test_bml_13_#34_<head>_"overshoot186851200687"" start; generated unconstrained sync point.

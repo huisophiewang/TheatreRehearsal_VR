@@ -1,0 +1,27 @@
+﻿
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectNegativeFeedback_Unity2017.4.17_working", "ProjectNegativeFeedback_Unity2017.4.17_working.csproj", "{7238707E-0FF2-8E85-2A91-BA35AC1017B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectNegativeFeedback_Unity2017.4.17_working.Editor", "ProjectNegativeFeedback_Unity2017.4.17_working.Editor.csproj", "{55567F0F-9F12-7E1E-BFF5-0DBEB2B96227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7238707E-0FF2-8E85-2A91-BA35AC1017B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7238707E-0FF2-8E85-2A91-BA35AC1017B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7238707E-0FF2-8E85-2A91-BA35AC1017B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7238707E-0FF2-8E85-2A91-BA35AC1017B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55567F0F-9F12-7E1E-BFF5-0DBEB2B96227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55567F0F-9F12-7E1E-BFF5-0DBEB2B96227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55567F0F-9F12-7E1E-BFF5-0DBEB2B96227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55567F0F-9F12-7E1E-BFF5-0DBEB2B96227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

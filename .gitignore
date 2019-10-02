@@ -1,4 +1,8 @@
-*.log
 Library/
 obj/
-Assets/
+
+Assets/Art/
+Assets/Plugins/
+Assets/StreamingAssets/
+Assets/vhAssets/
+

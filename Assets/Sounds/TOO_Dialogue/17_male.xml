@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<act>
+	<participant id="ChrName" role="actor"/>
+	<bml>
+		<speech id="sp1" ref="17_male_a" type="application/ssml+xml">
+			<mark name="T0"/>
+			Again
+			<mark name="T1"/>
+		</speech>
+
+    <face amount="0.8" au="45" end="sp1:T0+0.15" group="small_nod" id="blink191777312504" side="BOTH" start="sp1:T0+0" type="facs"/>
+    <face amount="0.8" au="45" end="sp1:T0+0.15" group="small_nod" id="blink191775680506" side="BOTH" start="sp1:T0+0" type="facs"/>
+    <face amount="1" au="4" end="sp1:T0+6.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.4" au="5" end="sp1:T0+6.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="1" au="10" end="sp1:T0+6.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    
+    
+		
+		<head amount="0.01" group="small_nod" id="overshoot191776928504" repeats="0.5" start="action191778528504:relax" type="nod" velocity="1"/>
+
+		<head amount="0.01" group="small_nod" id="overshoot191777792506" repeats="0.5" start="action191776768506:relax" type="nod" velocity="1"/>
+		<gesture name="ChrBrad@Idle02_BeatHighRt01" priority="4" relax="sp1:T1" stroke="sp1:T0" />
+
+	</bml>
+</act>

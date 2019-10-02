@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<act xmlns:ns0="http://ict.usc.edu">
+	<participant id="ChrName" role="actor"/>
+	<bml>
+		<speech id="sp1" ref="banished1" type="application/ssml+xml">
+			<mark name="T0"/>
+			you
+			<mark name="T1"/>
+			<mark name="T2"/>
+			wont
+			<mark name="T3"/>
+			<mark name="T4"/>
+			die,
+			<mark name="T5"/>
+			<mark name="T6"/>
+			but
+			<mark name="T7"/>
+			<mark name="T8"/>
+			you
+			<mark name="T9"/>
+			<mark name="T10"/>
+			will
+			<mark name="T11"/>
+			<mark name="T12"/>
+			be
+			<mark name="T13"/>
+			<mark name="T14"/>
+			banished.
+			<mark name="T15"/>
+		</speech>
+		<face amount="0.3" au="2" relax="sp1:T0" type="facs"/>
+		<face amount="0.3" au="1" relax="sp1:T0" type="facs"/>
+		<face amount="0.3" au="2" relax="sp1:T8" type="facs"/>
+		<face amount="0.3" au="1" relax="sp1:T8" type="facs"/>
+    <face amount="0.65" au="1" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.75" au="4" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.78" au="10" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.24" au="23" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.20" au="24" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.54" au="25" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.17" au="26" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.65" au="1" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.75" au="4" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.78" au="10" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.24" au="23" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.20" au="24" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.54" au="25" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.17" au="26" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.65" au="1" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.75" au="4" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.78" au="10" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.24" au="23" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.20" au="24" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.54" au="25" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.17" au="26" end="sp1:T0+3.0" relax="sp1:T0+2.0" side="BOTH" start="sp1:T0+0" stroke="sp1:T0+.4" type="facs"/>
+    <face amount="0.65" au="1" end="sp1:T8+3.0" relax="sp1:T8+2.0" side="BOTH" start="sp1:T8+0" stroke="sp1:T8+.4" type="facs"/>
+    <face amount="0.75" au="4" end="sp1:T8+3.0" relax="sp1:T8+2.0" side="BOTH" start="sp1:T8+0" stroke="sp1:T8+.4" type="facs"/>
+    <face amount="0.78" au="10" end="sp1:T8+3.0" relax="sp1:T8+2.0" side="BOTH" start="sp1:T8+0" stroke="sp1:T8+.4" type="facs"/>
+    <face amount="0.24" au="23" end="sp1:T8+3.0" relax="sp1:T8+2.0" side="BOTH" start="sp1:T8+0" stroke="sp1:T8+.4" type="facs"/>
+    <face amount="0.20" au="24" end="sp1:T8+3.0" relax="sp1:T8+2.0" side="BOTH" start="sp1:T8+0" stroke="sp1:T8+.4" type="facs"/>
+    <face amount="0.54" au="25" end="sp1:T8+3.0" relax="sp1:T8+2.0" side="BOTH" start="sp1:T8+0" stroke="sp1:T8+.4" type="facs"/>
+    <face amount="0.17" au="26" end="sp1:T8+3.0" relax="sp1:T8+2.0" side="BOTH" start="sp1:T8+0" stroke="sp1:T8+.4" type="facs"/>
+    
+    
+		<gesture name ="ChrBrad@Idle01_YouRt01" relax="sp1:T2" stroke="sp1:T1" />
+
+	</bml>
+</act>
