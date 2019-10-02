@@ -122,28 +122,3 @@ WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) 
 
 WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
 
-WARNING: Unknown sync for notation "action186864320764:relax"
-BehaviorSyncPoint:parseSyncPointAttr(..): Invalid SyncPoint reference "action186864320764:relax" in behavior "BML_Rachel_sbm_test_bml_10_#5_<head>_"overshoot186864448764"" start; generated unconstrained sync point.
-WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
-
-WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
-
-WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
-
-WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
-
-WARNING: BML::parse_bml_gesture(): behavior "BML_Maarten_sbm_test_bml_11_#20_<gesture>": name="ChrBrad@Idle01_BEatLowRt01" not loaded; ignoring behavior.
-WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
-
-WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
-
-WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
-
-WARNING: BML::parse_target(): Gaze: Unknown target "camera". (TODO: Query WSP.) Behavior ignored.
-
-WARNING: Unknown sync for notation "action186866240681:relax"
-BehaviorSyncPoint:parseSyncPointAttr(..): Invalid SyncPoint reference "action186866240681:relax" in behavior "BML_Rachel_sbm_test_bml_13_#32_<head>_"overshoot186851104681"" start; generated unconstrained sync point.
-WARNING: Unknown sync for notation "action186865312683:relax"
-BehaviorSyncPoint:parseSyncPointAttr(..): Invalid SyncPoint reference "action186865312683:relax" in behavior "BML_Rachel_sbm_test_bml_13_#33_<head>_"overshoot186850656683"" start; generated unconstrained sync point.
-WARNING: Unknown sync for notation "action186850656687:relax"
-BehaviorSyncPoint:parseSyncPointAttr(..): Invalid SyncPoint reference "action186850656687:relax" in behavior "BML_Rachel_sbm_test_bml_13_#34_<head>_"overshoot186851200687"" start; generated unconstrained sync point.
